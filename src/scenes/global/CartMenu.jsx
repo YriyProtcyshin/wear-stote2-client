@@ -131,7 +131,7 @@ const CartMenu = () => {
                 borderRadius: 0,
                 minWidth: "100%",
                 padding: "20px 40px",
-                m: "20px 0",
+                m: "20px 0", 
               }}
               onClick={() => {
                 navigate("/checkout");
